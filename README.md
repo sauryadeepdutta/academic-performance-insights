@@ -69,7 +69,7 @@ Dataset source: https://www.kaggle.com/datasets/xyz/student-performance
 <h2>Results</h2>
 <ul>
   <li>Strong positive relationship observed between reading and writing scores</li>
-  <li>Students with higher performance in one subject tend to perform well in others</li>
+  <li>Students with higher performance in one subject generally tend to perform well in others</li>
   <li>Performance variations exist across different groups</li>
 </ul>
 
