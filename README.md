@@ -87,8 +87,8 @@ The analysis highlights clear patterns in student performance and demonstrates t
 
 <h2>How to Run</h2>
 <pre>
-git clone https://github.com/your-username/student-performance-analysis.git
-cd student-performance-analysis
+git clone https://github.com/sauryadeepdutta/student-performance-analysis.git
+cd academic-performance-insights
 jupyter notebook
 </pre>
 
