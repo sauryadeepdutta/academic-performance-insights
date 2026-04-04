@@ -4,11 +4,11 @@
 
 **Uncovering what drives student success — through data.**
 
-[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org)
-[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-4C72B0?style=flat)](https://seaborn.pydata.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-4C72B0?style=for-the-badge&logoColor=white)](https://seaborn.pydata.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-2ea44f?style=for-the-badge)](LICENSE)
 
 </div>
 
@@ -104,7 +104,7 @@ jupyter notebook
 
 **Sauryadeep Dutta**
 
-[![GitHub](https://img.shields.io/badge/GitHub-sauryadeepdutta-181717?style=flat&logo=github)](https://github.com/sauryadeepdutta)
+[![GitHub](https://img.shields.io/badge/GitHub-sauryadeepdutta-181717?style=for-the-badge&logo=github)](https://github.com/sauryadeepdutta)
 
 ---
 
