@@ -1,96 +1,113 @@
-<h1 align="center">Academic Performance Insights</h1>
+<div align="center">
 
-<p align="center">
-A data science project focused on analyzing and understanding patterns in student academic performance using Python and visualization techniques.
-</p>
+# 📊 Academic Performance Insights
 
-<hr>
+**Uncovering what drives student success — through data.**
 
-<h2>Overview</h2>
-<p>
-This project explores student performance data to identify trends, relationships, and key factors affecting academic outcomes.
-The analysis demonstrates how raw data can be transformed into meaningful insights through structured data processing and visualization.
-</p>
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-4C72B0?style=flat)](https://seaborn.pydata.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
 
-<h2>Objectives</h2>
-<ul>
-  <li>Analyze performance across multiple subjects</li>
-  <li>Identify correlations between academic scores</li>
-  <li>Compare performance across different groups</li>
-  <li>Extract actionable insights using data visualization</li>
-</ul>
+</div>
 
-<h2>Dataset</h2>
-<p>
-The dataset includes student scores in mathematics, reading, and writing, along with categorical attributes such as gender.
-</p>
-<p>
-Dataset source: https://www.kaggle.com/datasets/xyz/student-performance
-</p>
+---
 
-<h2>Tools and Technologies</h2>
-<ul>
-  <li>Python</li>
-  <li>Pandas</li>
-  <li>NumPy</li>
-  <li>Matplotlib</li>
-  <li>Seaborn</li>
-  <li>Jupyter Notebook</li>
-</ul>
+## 🧠 About
 
-<h2>Methodology</h2>
+This project explores student performance data to identify trends, correlations, and key factors that influence academic outcomes across **Mathematics**, **Reading**, and **Writing**.
 
-<h3>Data Preparation</h3>
-<ul>
-  <li>Handled missing values</li>
-  <li>Verified data types and structure</li>
-</ul>
+By applying structured data processing and visualization techniques, raw numbers are transformed into clear, actionable insights.
 
-<h3>Exploratory Data Analysis</h3>
-<ul>
-  <li>Analyzed score distributions</li>
-  <li>Compared subject-wise performance</li>
-  <li>Conducted group-based analysis</li>
-</ul>
+---
 
-<h3>Correlation Analysis</h3>
-<ul>
-  <li>Examined relationships between subjects</li>
-  <li>Visualized correlations using heatmaps</li>
-</ul>
+## 🎯 Objectives
 
-<h3>Visualization</h3>
-<ul>
-  <li>Histograms for distribution analysis</li>
-  <li>Box plots for comparative insights</li>
-  <li>Heatmaps for correlation patterns</li>
-</ul>
+- 📈 Analyze score distributions across multiple subjects
+- 🔗 Identify correlations between academic scores
+- 👥 Compare performance across different student groups
+- 💡 Extract meaningful insights through data visualization
 
-<h2>Results</h2>
-<ul>
-  <li>Strong positive relationship observed between reading and writing scores</li>
-  <li>Students with higher performance in one subject generally tend to perform well in others</li>
-  <li>Performance variations exist across different groups</li>
-</ul>
+---
 
-<h2>Conclusion</h2>
-<p>
-The analysis highlights clear patterns in student performance and demonstrates the effectiveness of data-driven approaches in understanding academic trends.
-</p>
+## 📁 Dataset
 
-<h2>Future Scope</h2>
-<ul>
-  <li>Build predictive models using machine learning</li>
-  <li>Incorporate additional features such as study habits and attendance</li>
-  <li>Develop an interactive dashboard for visualization</li>
-</ul>
+Student scores in **Math**, **Reading**, and **Writing**, alongside categorical attributes like gender.
 
-<h2>How to Run</h2>
-<pre>
-git clone https://github.com/sauryadeepdutta/student-performance-analysis.git
+> 📌 Source: [Kaggle — Student Performance Dataset](https://www.kaggle.com/datasets/xyz/student-performance)
+
+---
+
+## 🛠️ Tech Stack
+
+| Tool | Purpose |
+|------|---------|
+| Python | Core language |
+| Pandas | Data manipulation |
+| NumPy | Numerical operations |
+| Matplotlib | Plotting |
+| Seaborn | Statistical visualizations |
+| Jupyter Notebook | Interactive analysis |
+
+---
+
+## 🔍 Methodology
+
+### 1. 🧹 Data Preparation
+- Handled missing values
+- Verified data types and structure
+
+### 2. 📊 Exploratory Data Analysis
+- Analyzed score distributions
+- Compared subject-wise performance
+- Conducted group-based analysis
+
+### 3. 🔗 Correlation Analysis
+- Examined relationships between subjects
+- Visualized correlations using heatmaps
+
+### 4. 📉 Visualizations Used
+- **Histograms** — score distributions
+- **Box plots** — group comparisons
+- **Heatmaps** — correlation patterns
+
+---
+
+## ✅ Key Findings
+
+- 📌 Strong positive correlation between **reading and writing** scores
+- 📌 High performers in one subject tend to **excel across all subjects**
+- 📌 Notable **performance variation** observed across demographic groups
+
+---
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/sauryadeepdutta/academic-performance-insights.git
 cd academic-performance-insights
 jupyter notebook
-</pre>
+```
 
-<h2>Author</h2>
-<p>Sauryadeep Dutta</p>
+---
+
+## 🔭 Future Scope
+
+- [ ] Build predictive models using machine learning
+- [ ] Incorporate features like study habits and attendance
+- [ ] Develop an interactive dashboard for live visualization
+
+---
+
+## 👤 Author
+
+**Sauryadeep Dutta**
+
+[![GitHub](https://img.shields.io/badge/GitHub-sauryadeepdutta-181717?style=flat&logo=github)](https://github.com/sauryadeepdutta)
+
+---
+
+<div align="center">
+  <sub>Made with ❤️ and Python</sub>
+</div>
