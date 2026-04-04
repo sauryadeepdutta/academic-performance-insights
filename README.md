@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📊 Academic Performance Insights
+#  Academic Performance Insights
 
 **Uncovering what drives student success — through data.**
 
@@ -8,13 +8,12 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-4C72B0?style=for-the-badge&logoColor=white)](https://seaborn.pydata.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-2ea44f?style=for-the-badge)](LICENSE)
 
 </div>
 
 ---
 
-## 🧠 About
+## About
 
 This project explores student performance data to identify trends, correlations, and key factors that influence academic outcomes across **Mathematics**, **Reading**, and **Writing**.
 
@@ -22,24 +21,24 @@ By applying structured data processing and visualization techniques, raw numbers
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
-- 📈 Analyze score distributions across multiple subjects
-- 🔗 Identify correlations between academic scores
-- 👥 Compare performance across different student groups
-- 💡 Extract meaningful insights through data visualization
+- Analyze score distributions across multiple subjects
+- Identify correlations between academic scores
+- Compare performance across different student groups
+- Extract meaningful insights through data visualization
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 Student scores in **Math**, **Reading**, and **Writing**, alongside categorical attributes like gender.
 
-> 📌 Source: [Kaggle — Student Performance Dataset](https://www.kaggle.com/datasets/xyz/student-performance)
+> Source: [Kaggle — Student Performance Dataset](https://www.kaggle.com/datasets/xyz/student-performance)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -52,37 +51,37 @@ Student scores in **Math**, **Reading**, and **Writing**, alongside categorical 
 
 ---
 
-## 🔍 Methodology
+## Methodology
 
-### 1. 🧹 Data Preparation
+### 1. Data Preparation
 - Handled missing values
 - Verified data types and structure
 
-### 2. 📊 Exploratory Data Analysis
+### 2. Exploratory Data Analysis
 - Analyzed score distributions
 - Compared subject-wise performance
 - Conducted group-based analysis
 
-### 3. 🔗 Correlation Analysis
+### 3. Correlation Analysis
 - Examined relationships between subjects
 - Visualized correlations using heatmaps
 
-### 4. 📉 Visualizations Used
+### 4. Visualizations Used
 - **Histograms** — score distributions
 - **Box plots** — group comparisons
 - **Heatmaps** — correlation patterns
 
 ---
 
-## ✅ Key Findings
+## Key Findings
 
-- 📌 Strong positive correlation between **reading and writing** scores
-- 📌 High performers in one subject tend to **excel across all subjects**
-- 📌 Notable **performance variation** observed across demographic groups
+-  Strong positive correlation between **reading and writing** scores
+-  High performers in one subject tend to **excel across all subjects**
+-  Notable **performance variation** observed across demographic groups
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 git clone https://github.com/sauryadeepdutta/academic-performance-insights.git
@@ -92,7 +91,7 @@ jupyter notebook
 
 ---
 
-## 🔭 Future Scope
+## Future Scope
 
 - [ ] Build predictive models using machine learning
 - [ ] Incorporate features like study habits and attendance
@@ -100,7 +99,7 @@ jupyter notebook
 
 ---
 
-## 👤 Author
+## Author
 
 **Sauryadeep Dutta**
 
@@ -109,5 +108,5 @@ jupyter notebook
 ---
 
 <div align="center">
-  <sub>Made with ❤️ and Python</sub>
+  <sub>Made with Caffeine and Python</sub>
 </div>
